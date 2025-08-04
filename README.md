@@ -1,2 +1,2 @@
-# Get in the Q
-Get in the Q, by BPB Publications
+# Quantum Computing Concepts
+Quantum Computing Concepts, by BPB Publications
